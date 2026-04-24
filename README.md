@@ -94,7 +94,7 @@ if (seenKeys.add(key)) {
 
 ```
 >>> QUIZ LEADERBOARD SYSTEM
-Registration Number: RA2411003011762
+Registration Number: 2024CS101
 Starting poll sequence — 10 polls with 5s delay
 ──────────────────────────────────────────────────
 [INFO]  Fetching poll 0/9...
