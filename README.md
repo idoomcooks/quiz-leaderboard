@@ -45,11 +45,11 @@ quiz-leaderboard/
 
 ```bash
 # Compile and run with your registration number
-make REG_NO=RA2411003011762
+make REG_NO=2024CS101
 
 # Or step by step
 make compile
-make run REG_NO=RA2411003011762
+make run REG_NO=2024CS101
 ```
 
 ### Using javac directly
@@ -57,7 +57,7 @@ make run REG_NO=RA2411003011762
 ```bash
 mkdir -p out
 find src/main/java -name "*.java" | xargs javac -d out
-java -cp out com.quizleaderboard.Main RA2411003011762
+java -cp out com.quizleaderboard.Main 2024CS101
 ```
 
 ---
